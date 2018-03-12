@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\bin\Debug\Pares.exe.config
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\bin\Debug\Pares.exe
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\bin\Debug\Pares.pdb
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.Form1.resources
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.exe
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\Pares\Pares\obj\Debug\Pares.pdb
